@@ -1,0 +1,7 @@
+{
+  "name": "Brave Search Clone",
+  "description": "A privacy-focused search engine with AI summarization and clean UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
